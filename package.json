@@ -1,0 +1,8 @@
+{
+  "name": "projectname",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "~4.2.0",
+    "mongoose": "latest"
+  }
+}
